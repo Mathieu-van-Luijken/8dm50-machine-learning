@@ -1,6 +1,4 @@
 import numpy as np
-from sklearn.datasets import load_diabetes
-
 
 def lsq(X, y):
     """
@@ -23,31 +21,15 @@ def lsq(X, y):
 def y_output(X, beta):
     ones = np.ones((len(X), 1))
     X = np.concatenate((ones, X), axis=1)
-
     y_out = np.dot(X, beta)
     return y_out
 
 def MSE(y, y_out):
-
     error_mat = (y - y_out)
     error_mat = np.square(error_mat)
 
     n = error_mat.shape[0]
     sum = np.sum(error_mat)
-    mse = (1/n) * sum
+    mse = sum/n
     return mse
 
-diabetes = load_diabetes()
-X_train = diabetes.data[:300, :]
-y_train = diabetes.target[:300, np.newaxis]
-X_test = diabetes.data[300:, :]
-y_test = diabetes.target[300:, np.newaxis]
-
-beta = lsq(X_train, y_train)
-y_out = y_output(X_test, beta)
-MSE = MSE(y_test, y_out)
-
-# print the parameters
-print(y_out.shape)
-print(y_test.shape)
-print(MSE)
