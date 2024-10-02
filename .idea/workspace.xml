@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b56fd0e-829d-4dfc-bedf-442cbcae87aa" name="Changes" comment="aje to regression">
+      <change beforePath="$PROJECT_DIR$/week_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week_4.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2lbfDPCsetFIlqQ7DmW0NRwUcdZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b56fd0e-829d-4dfc-bedf-442cbcae87aa" name="Changes" comment="" />
+      <created>1725453587103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725453587103</updated>
+      <workItem from="1725453588345" duration="345000" />
+      <workItem from="1725453951993" duration="45000" />
+      <workItem from="1725456753928" duration="141000" />
+      <workItem from="1725529430337" duration="1297000" />
+      <workItem from="1725530757803" duration="377000" />
+      <workItem from="1725616897075" duration="77000" />
+      <workItem from="1725890825534" duration="114000" />
+      <workItem from="1726042841161" duration="297000" />
+      <workItem from="1726043697393" duration="5151000" />
+      <workItem from="1726048965039" duration="600000" />
+      <workItem from="1726051203842" duration="6589000" />
+      <workItem from="1726137360058" duration="30000" />
+      <workItem from="1726474180895" duration="204000" />
+      <workItem from="1726497732631" duration="31000" />
+      <workItem from="1726567017440" duration="1154000" />
+      <workItem from="1726570112754" duration="73000" />
+      <workItem from="1726570686322" duration="50000" />
+      <workItem from="1726579136706" duration="59000" />
+      <workItem from="1726649032924" duration="16000" />
+      <workItem from="1726649086219" duration="5885000" />
+      <workItem from="1726742848640" duration="117000" />
+      <workItem from="1726752651057" duration="372000" />
+      <workItem from="1727167585036" duration="2460000" />
+      <workItem from="1727176480143" duration="415000" />
+      <workItem from="1727253959707" duration="2682000" />
+      <workItem from="1727256854881" duration="2096000" />
+      <workItem from="1727259548026" duration="2077000" />
+      <workItem from="1727684729539" duration="633000" />
+      <workItem from="1727854371161" duration="71000" />
+      <workItem from="1727857315090" duration="916000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ik heb een start gemaakt aan de linear regression afmaken">
+      <created>1725456832258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725456832258</updated>
+    </task>
+    <task id="LOCAL-00002" summary="aje to regression">
+      <created>1726049537120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726049537120</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ik heb een start gemaakt aan de linear regression afmaken" />
+    <MESSAGE value="eh" />
+    <MESSAGE value="aje to regression" />
+    <option name="LAST_COMMIT_MESSAGE" value="aje to regression" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/8dm50_machine_learning$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1725530102704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/practicals/code" />
+    <SUITE FILE_PATH="coverage/8dm50_machine_learning$Week_1___Class_conditional_probability.coverage" NAME="Week 1 - Class-conditional probability Coverage Results" MODIFIED="1726046581957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/week_1_ipynb$Week_1___Class_conditional_probability.coverage" NAME="Week 1 - Class-conditional probability Coverage Results" MODIFIED="1726474300778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
