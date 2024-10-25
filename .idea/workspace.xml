@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b56fd0e-829d-4dfc-bedf-442cbcae87aa" name="Changes" comment="aje to regression" />
+    <list default="true" id="7b56fd0e-829d-4dfc-bedf-442cbcae87aa" name="Changes" comment="aje to regression">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +91,8 @@
       <workItem from="1729521281152" duration="209000" />
       <workItem from="1729521565919" duration="222000" />
       <workItem from="1729521881064" duration="353000" />
+      <workItem from="1729522263315" duration="198000" />
+      <workItem from="1729586761341" duration="83000" />
     </task>
     <task id="LOCAL-00001" summary="Ik heb een start gemaakt aan de linear regression afmaken">
       <created>1725456832258</created>
